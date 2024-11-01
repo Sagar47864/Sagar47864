@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sagar47864
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in web devolpment,Game builder
 - 🌱 I’m currently learning Web devolopmant
 - 💞️ I’m looking to collaborate on 
 - 📫 sagardipdebnath@gmail,com
